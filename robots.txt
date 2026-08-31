@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dhussain79.github.io/danishhussain-cv/sitemap.xml
